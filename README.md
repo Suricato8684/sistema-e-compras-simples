@@ -1,4 +1,4 @@
-🛒 Sistema de Compras – Calin
+🛒 Sistema de Compras – Leo
 
 Sistema desktop de gerenciamento de compras desenvolvido em Python, utilizando Tkinter para a interface gráfica e SQLite3 para armazenamento dos dados.
 
@@ -67,6 +67,5 @@ Validação de dados.
 Organização e desenvolvimento de aplicações desktop.
 👨‍💻 Autor
 
-Desenvolvido por Calin.
+Desenvolvido por Leonardo.
 
-⭐ Se você gostou do projeto, deixe uma estrela no repositório!
